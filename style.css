@@ -8,7 +8,7 @@ body {
   padding: 0;
   font-family: 'Poppins', Arial, sans-serif;
   min-height: 100vh;
-  background: url('./assets/background/bg.png') no-repeat center center fixed;
+  background: url('./assets/background/bg.jpg') no-repeat center center fixed;
   background-size: cover;
   overflow-x: hidden;
 }
