@@ -33,13 +33,6 @@ A modern, glassmorphic weather web app built with HTML, CSS, and JavaScript, pow
 4. **Run locally**
    - Open `index.html` in your browser.
 
----
-
-## 🖼️ Screenshots
-
-| Desktop | Mobile |
-| ------- | ------ |
-| ![Desktop](assets/background/bg2.jpg) | ![Mobile](assets/background/bg3.jpg) |
 
 ---
 
@@ -93,12 +86,6 @@ Made with ❤️ by [HU1MAN](https://github.com/hu1man)
 ## 📄 License
 
 This project is licensed under the MIT License.
-
----
-
-## 🌍 Live Demo
-
-> _Host the app on GitHub Pages or your favorite platform and share the link here!_
 
 ---
 
