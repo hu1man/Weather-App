@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Weather App</title>
+  <link rel="stylesheet" href="style.css">
+  <!-- FontAwesome CDN for icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="icon" type="img/png" href="assets/icons/icon4.png">
+</head>
+<body>
+  <!-- Glassmorphic background overlay (no waves) -->
+  <div class="background"></div>
+  
+  <main>
+    <!-- Glassmorphic Search Box -->
+    <div id="search-container" class="glass search-center">
+      <form id="search-form">
+        <div class="input-group">
+          <input type="text" id="location-input" placeholder="Enter Your Location" autocomplete="off" required>
+          <button type="submit" id="search-btn" aria-label="Search">
+            <i class="fas fa-search"></i>
+          </button>
+        </div>
+      </form>
+    </div>
+    <!-- Weather/Error Card -->
+    <div id="result-container"></div>
+  </main>
+
+  <footer class="footer">
+  <div class="footer-content">
+    &copy; 2025 Weather App. Made with <span style="color:#e25555;">&#10084;</span> by <a href="https://github.com/hu1man" taret="_blank">HU1MAN</a>
+  </div>
+</footer>
+  <script src="script.js"></script>
+</body>
+</html>
