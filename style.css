@@ -348,9 +348,9 @@ main {
 /* Responsive */
 @media (max-width: 600px) {
   .glass, .weather-card {
-    min-width: 85vw;
-    max-width: 90vw;
-    padding: 1.2rem 0.5rem;
+    min-width: 90vw;
+    max-width: 98vw;
+    padding: 1rem 0.5rem;
     margin: 1rem auto;
     border-radius: 18px;
     box-shadow: 0 4px 16px 0 rgba(31, 38, 135, 0.12);
